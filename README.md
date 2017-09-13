@@ -6,8 +6,8 @@ Mobile devices are already pervasive fixtures of 21st century culture and increa
 
 ### Table of contents
 [Online discussion area](#online-discussion-area)  
-[Location](#location)	 
-[Supplies](#supplies)	 
+[Location](#location)  
+[Supplies](#supplies)  
 [Projects](#projects)  
 [Labs](#labs)  
 [Class topics](#class-topics)  
@@ -38,13 +38,15 @@ All classroom activities will take place in PKI room 261 unless otherwise noted 
 
 [Project Milestone 2 rubric](/projects/milestone2.md)
 
-[Project Final Milestone rubric]() - TBA
-
-2016 Projects and Final Presentations:
-* Student work goes here
+[Project Final Milestone rubric](/projects/milestone3.md)
 
 2017 Projects and Final Presentations
-* Your work goes here
+* [E-notifier](https://github.com/vingle1/E-Notifier) - Vaibhav Ingle
+* [FishBright](https://github.com/Append/fishingapp) - Gib Filter
+* [FlyDry](https://github.com/gewethor/FlyDry) - Gabi Wethor
+* [KeyboardDetect](https://github.com/JMPercival/8480Project) - James Percival
+* [KeyFinder](https://github.com/jnyiok/KeyFinder) - James Nyiok
+* [OpenSesame](https://github.com/jeffreysdempsey/OpenSesame) - Jeff Dempsey
 
 ## Labs
 - Introduction to the course
@@ -94,7 +96,7 @@ All classroom activities will take place in PKI room 261 unless otherwise noted 
 - (10%) Introduction to Wearables (Metawear) (Lab 3 - no rubric)
 - (15%) Semester Project Milestone 1 - ([Rubric](/projects/milestone1.md))
 - (20%) Semester Project Milestone 2 - ([Rubric](/projects/milestone2.md))
-- (25%) Semester Project Milestone Final - (rubric TBA)
+- (25%) Semester Project Milestone Final - ([Rubric](/projects/milestone3.md))
 
 Each project milestone will have a specific grading rubric that includes the core requirements for the project (i.e. what the application must do), any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. Each project will include a presentation component to be presented in class on the project due date. Projects build upon each other. The final Project is considered to be comprehensive. This means that <i>there is no final exam</i>. Final Project presentations will be presented on the day of the Final.
 
